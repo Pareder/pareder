@@ -1,7 +1,15 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pareder.pareder)
+
 <div>
     <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=pareder&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="Pareder" />
     <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pareder&layout=compact&theme=react" alt="Pareder" />
 </div>
+
+<div>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pareder&theme=react&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pareder&theme=nord&margin-w=15&title=Commit,PullRequest,Repositories,Followers,Issues)
 
 ### 🔧🔨 Languages and Tools 🔧🔨
 
