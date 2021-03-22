@@ -5,11 +5,13 @@
     <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pareder&layout=compact&theme=react" alt="Pareder" />
 </div>
 
-<div>
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pareder&theme=react&hide_border=true" alt="GitHub Streak"/>
+<div style="text-align:center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=pareder&theme=react&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pareder&theme=nord&margin-w=15&title=Commit,PullRequest,Repositories,Followers,Issues)
+<div style="text-align:center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pareder&theme=nord&margin-w=15&title=Commit,PullRequest,Repositories,Followers,Issues" alt="Trophy"/>
+</div>
 
 ### 🔧🔨 Languages and Tools 🔧🔨
 
