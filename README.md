@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pareder&theme=nord&margin-w=15&title=Commit,PullRequest,Repositories,Followers,Issues" alt="Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=pareder&theme=nord&column=5&margin-w=15&title=Commit,PullRequest,Repositories,Followers,Issues" alt="Trophy"/>
 </p>
 
 ### 🔧🔨 Languages and Tools 🔧🔨
