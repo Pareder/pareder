@@ -9,7 +9,7 @@
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pareder&theme=react&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pareder&theme=nord&margin-w=15&title=Commit,PullRequest,Repositories,Followers,Issues)
+![trophy](https://github-profile-trophy.vercel.app/?username=pareder&theme=nord&margin-w=15&title=Commit,PullRequest,Repositories,Followers,Issues)
 
 ### 🔧🔨 Languages and Tools 🔧🔨
 
