@@ -15,28 +15,4 @@
 
 ### 🔧🔨 Languages and Tools 🔧🔨
 
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;" align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Vue.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Redux" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;" align="left" alt="SASS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Webpack" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Gulp" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="NodeJS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="ExpressJS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;" align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;" align="left" alt="Firebase" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;" align="left" alt="GIT" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;" align="left" alt="TypeScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+![My Skills](https://go-skill-icons.vercel.app/api//icons?i=ts,js,html,css,react,reactnative,vue,nextjs,svelte,redux,graphql,reactquery,zustand,materialui,vuetify,leaflet,sass,tailwind,webpack,vite,gulp,jest,vitest,storybook,nodejs,express,strapi,mysql,firebase,git&titles=true)
